@@ -1,4 +1,4 @@
-# Kalender COVID-19 Indonesia
+# Kalender COVID-19 2020 Indonesia
 
 ###### Inspirasi
 https://dominicroye.github.io/en/2020/a-heatmap-as-calendar/
